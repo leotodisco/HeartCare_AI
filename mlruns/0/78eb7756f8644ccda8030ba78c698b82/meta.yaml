@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/78eb7756f8644ccda8030ba78c698b82/artifacts
+end_time: 1675201165512
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 78eb7756f8644ccda8030ba78c698b82
+run_name: bittersweet-ox-925
+run_uuid: 78eb7756f8644ccda8030ba78c698b82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675201163923
+status: 3
+tags: []
+user_id: leopoldotodisco

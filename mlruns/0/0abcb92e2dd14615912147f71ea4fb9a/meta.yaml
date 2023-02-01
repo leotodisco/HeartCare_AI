@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/0abcb92e2dd14615912147f71ea4fb9a/artifacts
+end_time: 1675201271048
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0abcb92e2dd14615912147f71ea4fb9a
+run_name: treasured-stork-385
+run_uuid: 0abcb92e2dd14615912147f71ea4fb9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675201269468
+status: 3
+tags: []
+user_id: leopoldotodisco

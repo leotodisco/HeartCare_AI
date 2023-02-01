@@ -1,0 +1,3 @@
+#!/Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/environment/bin/python3.10
+from numba.pycc import main
+main()

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/e214314e568a45d1bdc6e93662960e34/artifacts
+end_time: 1675251659770
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e214314e568a45d1bdc6e93662960e34
+run_name: rare-roo-588
+run_uuid: e214314e568a45d1bdc6e93662960e34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675251658151
+status: 3
+tags: []
+user_id: leopoldotodisco

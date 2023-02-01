@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/e7e21d322be9423bb17161dee854eb02/artifacts
+end_time: 1675250529764
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7e21d322be9423bb17161dee854eb02
+run_name: capricious-grub-275
+run_uuid: e7e21d322be9423bb17161dee854eb02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675250528344
+status: 3
+tags: []
+user_id: leopoldotodisco

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/d4da5053b99b4fd7a6d645fa2b312424/artifacts
+deleted_time: 1675201025791
+end_time: 1675200889675
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d4da5053b99b4fd7a6d645fa2b312424
+run_name: vaunted-toad-333
+run_uuid: d4da5053b99b4fd7a6d645fa2b312424
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675200889609
+status: 4
+tags: []
+user_id: leopoldotodisco

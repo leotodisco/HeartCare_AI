@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/4ef78afa8b0a4262a7d7c8a9fa6e8135/artifacts
+end_time: 1675251430413
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ef78afa8b0a4262a7d7c8a9fa6e8135
+run_name: orderly-cow-925
+run_uuid: 4ef78afa8b0a4262a7d7c8a9fa6e8135
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675251428797
+status: 3
+tags: []
+user_id: leopoldotodisco

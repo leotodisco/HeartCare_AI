@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/82483883a47743f885565d877751f2cb/artifacts
+end_time: 1675251026113
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82483883a47743f885565d877751f2cb
+run_name: wise-squid-466
+run_uuid: 82483883a47743f885565d877751f2cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675251024650
+status: 3
+tags: []
+user_id: leopoldotodisco

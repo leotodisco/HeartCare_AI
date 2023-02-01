@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/6c3a3d596643456a83d88dc307870721/artifacts
+end_time: 1675251527944
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c3a3d596643456a83d88dc307870721
+run_name: thoughtful-snake-468
+run_uuid: 6c3a3d596643456a83d88dc307870721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675251526476
+status: 3
+tags: []
+user_id: leopoldotodisco

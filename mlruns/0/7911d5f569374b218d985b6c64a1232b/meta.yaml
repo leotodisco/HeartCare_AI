@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/7911d5f569374b218d985b6c64a1232b/artifacts
+end_time: 1675201186338
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7911d5f569374b218d985b6c64a1232b
+run_name: sassy-calf-940
+run_uuid: 7911d5f569374b218d985b6c64a1232b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675201184754
+status: 3
+tags: []
+user_id: leopoldotodisco

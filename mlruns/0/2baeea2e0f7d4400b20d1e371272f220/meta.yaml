@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/2baeea2e0f7d4400b20d1e371272f220/artifacts
+end_time: 1675250437706
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2baeea2e0f7d4400b20d1e371272f220
+run_name: unequaled-snipe-969
+run_uuid: 2baeea2e0f7d4400b20d1e371272f220
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675250436212
+status: 3
+tags: []
+user_id: leopoldotodisco

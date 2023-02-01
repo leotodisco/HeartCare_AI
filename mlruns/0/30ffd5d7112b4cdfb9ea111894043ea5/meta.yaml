@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/30ffd5d7112b4cdfb9ea111894043ea5/artifacts
+deleted_time: 1675200764809
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 30ffd5d7112b4cdfb9ea111894043ea5
+run_name: amazing-bee-857
+run_uuid: 30ffd5d7112b4cdfb9ea111894043ea5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675199942060
+status: 1
+tags: []
+user_id: leopoldotodisco

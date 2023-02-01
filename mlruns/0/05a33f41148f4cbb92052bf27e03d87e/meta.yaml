@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/05a33f41148f4cbb92052bf27e03d87e/artifacts
+end_time: 1675251132454
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05a33f41148f4cbb92052bf27e03d87e
+run_name: auspicious-hare-244
+run_uuid: 05a33f41148f4cbb92052bf27e03d87e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675251130971
+status: 3
+tags: []
+user_id: leopoldotodisco

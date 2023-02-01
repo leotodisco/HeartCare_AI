@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/38976fd1fce04fc3874bf7c1c97c04ab/artifacts
+end_time: 1675252131871
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38976fd1fce04fc3874bf7c1c97c04ab
+run_name: valuable-penguin-784
+run_uuid: 38976fd1fce04fc3874bf7c1c97c04ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675252130395
+status: 3
+tags: []
+user_id: leopoldotodisco

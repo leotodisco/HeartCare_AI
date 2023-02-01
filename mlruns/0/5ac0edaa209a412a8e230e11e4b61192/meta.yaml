@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/5ac0edaa209a412a8e230e11e4b61192/artifacts
+deleted_time: 1675201025791
+end_time: 1675200992043
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5ac0edaa209a412a8e230e11e4b61192
+run_name: rare-goose-712
+run_uuid: 5ac0edaa209a412a8e230e11e4b61192
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675200991993
+status: 4
+tags: []
+user_id: leopoldotodisco

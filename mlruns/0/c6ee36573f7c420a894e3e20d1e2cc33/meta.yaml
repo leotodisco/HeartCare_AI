@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/c6ee36573f7c420a894e3e20d1e2cc33/artifacts
+deleted_time: 1675201092863
+end_time: 1675201070914
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c6ee36573f7c420a894e3e20d1e2cc33
+run_name: spiffy-stork-65
+run_uuid: c6ee36573f7c420a894e3e20d1e2cc33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675201070854
+status: 4
+tags: []
+user_id: leopoldotodisco

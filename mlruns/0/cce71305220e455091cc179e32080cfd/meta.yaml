@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/cce71305220e455091cc179e32080cfd/artifacts
+end_time: 1675201360301
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cce71305220e455091cc179e32080cfd
+run_name: gaudy-mink-771
+run_uuid: cce71305220e455091cc179e32080cfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675201358813
+status: 3
+tags: []
+user_id: leopoldotodisco

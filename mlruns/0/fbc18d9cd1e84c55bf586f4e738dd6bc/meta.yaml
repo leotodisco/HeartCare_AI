@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/fbc18d9cd1e84c55bf586f4e738dd6bc/artifacts
+end_time: 1675252065060
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fbc18d9cd1e84c55bf586f4e738dd6bc
+run_name: blushing-moose-592
+run_uuid: fbc18d9cd1e84c55bf586f4e738dd6bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675252063586
+status: 3
+tags: []
+user_id: leopoldotodisco

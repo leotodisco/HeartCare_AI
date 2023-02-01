@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/f9d9befd9b1b4cba98c3c7336ede55ba/artifacts
+end_time: 1675251230190
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9d9befd9b1b4cba98c3c7336ede55ba
+run_name: righteous-lark-346
+run_uuid: f9d9befd9b1b4cba98c3c7336ede55ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675251228652
+status: 3
+tags: []
+user_id: leopoldotodisco
