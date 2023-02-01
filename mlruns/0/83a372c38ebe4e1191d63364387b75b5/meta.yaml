@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/83a372c38ebe4e1191d63364387b75b5/artifacts
+end_time: 1675270661635
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83a372c38ebe4e1191d63364387b75b5
+run_name: spiffy-croc-795
+run_uuid: 83a372c38ebe4e1191d63364387b75b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675270660114
+status: 3
+tags: []
+user_id: leopoldotodisco

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/59af09250d3a4f0b8c1dd65f7df3e97f/artifacts
+end_time: 1675274398571
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59af09250d3a4f0b8c1dd65f7df3e97f
+run_name: melodic-lamb-326
+run_uuid: 59af09250d3a4f0b8c1dd65f7df3e97f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675274396868
+status: 3
+tags: []
+user_id: leopoldotodisco

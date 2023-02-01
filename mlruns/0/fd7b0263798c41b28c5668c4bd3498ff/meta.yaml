@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/fd7b0263798c41b28c5668c4bd3498ff/artifacts
+end_time: 1675265362768
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd7b0263798c41b28c5668c4bd3498ff
+run_name: silent-gull-407
+run_uuid: fd7b0263798c41b28c5668c4bd3498ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675265360783
+status: 3
+tags: []
+user_id: leopoldotodisco

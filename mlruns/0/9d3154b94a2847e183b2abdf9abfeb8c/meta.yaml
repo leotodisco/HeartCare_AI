@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/9d3154b94a2847e183b2abdf9abfeb8c/artifacts
+end_time: 1675263585412
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d3154b94a2847e183b2abdf9abfeb8c
+run_name: judicious-grouse-165
+run_uuid: 9d3154b94a2847e183b2abdf9abfeb8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675263583534
+status: 3
+tags: []
+user_id: leopoldotodisco

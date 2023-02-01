@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/a7ec96e4da0d477a976155f00bc6c153/artifacts
+end_time: 1675266639991
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7ec96e4da0d477a976155f00bc6c153
+run_name: peaceful-fish-599
+run_uuid: a7ec96e4da0d477a976155f00bc6c153
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675266638241
+status: 3
+tags: []
+user_id: leopoldotodisco

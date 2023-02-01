@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/9371f10a029a4fbfab9ebe0b955ca49c/artifacts
+end_time: 1675265519082
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9371f10a029a4fbfab9ebe0b955ca49c
+run_name: judicious-cub-241
+run_uuid: 9371f10a029a4fbfab9ebe0b955ca49c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675265517307
+status: 3
+tags: []
+user_id: leopoldotodisco

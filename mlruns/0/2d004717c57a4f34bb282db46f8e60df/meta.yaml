@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/2d004717c57a4f34bb282db46f8e60df/artifacts
+end_time: 1675270726898
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d004717c57a4f34bb282db46f8e60df
+run_name: dapper-turtle-300
+run_uuid: 2d004717c57a4f34bb282db46f8e60df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675270725418
+status: 3
+tags: []
+user_id: leopoldotodisco

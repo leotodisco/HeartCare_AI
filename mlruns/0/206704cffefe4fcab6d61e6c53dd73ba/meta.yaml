@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/206704cffefe4fcab6d61e6c53dd73ba/artifacts
+end_time: 1675264752537
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 206704cffefe4fcab6d61e6c53dd73ba
+run_name: righteous-donkey-857
+run_uuid: 206704cffefe4fcab6d61e6c53dd73ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675264750771
+status: 3
+tags: []
+user_id: leopoldotodisco

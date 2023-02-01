@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/1095adf7e05f46a18c13ed2bf2da45af/artifacts
+end_time: 1675270148322
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1095adf7e05f46a18c13ed2bf2da45af
+run_name: youthful-kite-437
+run_uuid: 1095adf7e05f46a18c13ed2bf2da45af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675270146456
+status: 3
+tags: []
+user_id: leopoldotodisco

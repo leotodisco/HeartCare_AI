@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/020c2618c7b744fe8f2854821f3e73d9/artifacts
+end_time: 1675264890505
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 020c2618c7b744fe8f2854821f3e73d9
+run_name: abundant-koi-46
+run_uuid: 020c2618c7b744fe8f2854821f3e73d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675264890446
+status: 4
+tags: []
+user_id: leopoldotodisco

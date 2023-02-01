@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/837e6d9ba7394c638fbbfa15721b6967/artifacts
+end_time: 1675264913835
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 837e6d9ba7394c638fbbfa15721b6967
+run_name: puzzled-dolphin-164
+run_uuid: 837e6d9ba7394c638fbbfa15721b6967
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675264912055
+status: 3
+tags: []
+user_id: leopoldotodisco

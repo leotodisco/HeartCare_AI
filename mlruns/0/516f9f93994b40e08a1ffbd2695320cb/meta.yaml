@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/516f9f93994b40e08a1ffbd2695320cb/artifacts
+end_time: 1675270190247
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 516f9f93994b40e08a1ffbd2695320cb
+run_name: shivering-turtle-693
+run_uuid: 516f9f93994b40e08a1ffbd2695320cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675270188524
+status: 3
+tags: []
+user_id: leopoldotodisco

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/e2cd8e6d05ad4ad6b65d10241c28ab8e/artifacts
+end_time: 1675264285828
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2cd8e6d05ad4ad6b65d10241c28ab8e
+run_name: gaudy-bat-534
+run_uuid: e2cd8e6d05ad4ad6b65d10241c28ab8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675264284051
+status: 3
+tags: []
+user_id: leopoldotodisco

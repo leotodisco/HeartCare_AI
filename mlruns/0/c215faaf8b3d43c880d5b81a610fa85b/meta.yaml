@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/c215faaf8b3d43c880d5b81a610fa85b/artifacts
+end_time: 1675270470301
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c215faaf8b3d43c880d5b81a610fa85b
+run_name: trusting-mink-944
+run_uuid: c215faaf8b3d43c880d5b81a610fa85b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675270468373
+status: 4
+tags: []
+user_id: leopoldotodisco

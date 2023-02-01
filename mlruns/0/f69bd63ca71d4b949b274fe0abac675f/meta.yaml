@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/f69bd63ca71d4b949b274fe0abac675f/artifacts
+end_time: 1675263725308
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f69bd63ca71d4b949b274fe0abac675f
+run_name: dashing-flea-667
+run_uuid: f69bd63ca71d4b949b274fe0abac675f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675263723436
+status: 3
+tags: []
+user_id: leopoldotodisco
