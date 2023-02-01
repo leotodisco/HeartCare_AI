@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/df0119e90a0340d0bfbac2b96fefb84f/artifacts
+end_time: 1675284230899
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df0119e90a0340d0bfbac2b96fefb84f
+run_name: overjoyed-wolf-500
+run_uuid: df0119e90a0340d0bfbac2b96fefb84f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675284229085
+status: 3
+tags: []
+user_id: leopoldotodisco

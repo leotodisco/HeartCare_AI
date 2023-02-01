@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/b43066141ba9463cbd7f3205f14c8067/artifacts
+end_time: 1675281621343
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b43066141ba9463cbd7f3205f14c8067
+run_name: stylish-mink-725
+run_uuid: b43066141ba9463cbd7f3205f14c8067
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675281619388
+status: 3
+tags: []
+user_id: leopoldotodisco

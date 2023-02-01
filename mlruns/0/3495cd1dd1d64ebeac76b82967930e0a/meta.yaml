@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/3495cd1dd1d64ebeac76b82967930e0a/artifacts
+end_time: 1675281789260
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3495cd1dd1d64ebeac76b82967930e0a
+run_name: carefree-hen-686
+run_uuid: 3495cd1dd1d64ebeac76b82967930e0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675281787473
+status: 3
+tags: []
+user_id: leopoldotodisco

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/fffd5e0e3ec24064bb3de6ea2920454b/artifacts
+end_time: 1675285530935
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fffd5e0e3ec24064bb3de6ea2920454b
+run_name: unequaled-swan-506
+run_uuid: fffd5e0e3ec24064bb3de6ea2920454b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675285529209
+status: 3
+tags: []
+user_id: leopoldotodisco

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/bd26f9698afd4e31a8924d347c2a537d/artifacts
+end_time: 1675283102723
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd26f9698afd4e31a8924d347c2a537d
+run_name: skillful-auk-632
+run_uuid: bd26f9698afd4e31a8924d347c2a537d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675283100954
+status: 3
+tags: []
+user_id: leopoldotodisco

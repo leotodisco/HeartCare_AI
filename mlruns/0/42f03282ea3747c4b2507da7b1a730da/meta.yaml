@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/42f03282ea3747c4b2507da7b1a730da/artifacts
+end_time: 1675285817800
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42f03282ea3747c4b2507da7b1a730da
+run_name: loud-pug-370
+run_uuid: 42f03282ea3747c4b2507da7b1a730da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675285816130
+status: 3
+tags: []
+user_id: leopoldotodisco

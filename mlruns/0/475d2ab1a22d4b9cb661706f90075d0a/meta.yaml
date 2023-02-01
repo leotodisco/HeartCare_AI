@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/475d2ab1a22d4b9cb661706f90075d0a/artifacts
+end_time: 1675281379558
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 475d2ab1a22d4b9cb661706f90075d0a
+run_name: powerful-fox-317
+run_uuid: 475d2ab1a22d4b9cb661706f90075d0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675281377795
+status: 3
+tags: []
+user_id: leopoldotodisco

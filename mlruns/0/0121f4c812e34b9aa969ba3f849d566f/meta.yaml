@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/0121f4c812e34b9aa969ba3f849d566f/artifacts
+end_time: 1675283533832
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0121f4c812e34b9aa969ba3f849d566f
+run_name: omniscient-panda-988
+run_uuid: 0121f4c812e34b9aa969ba3f849d566f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675283532234
+status: 3
+tags: []
+user_id: leopoldotodisco
