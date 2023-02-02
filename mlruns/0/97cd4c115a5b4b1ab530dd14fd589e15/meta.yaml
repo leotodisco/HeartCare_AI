@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/97cd4c115a5b4b1ab530dd14fd589e15/artifacts
+end_time: 1675336761028
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97cd4c115a5b4b1ab530dd14fd589e15
+run_name: fortunate-rat-290
+run_uuid: 97cd4c115a5b4b1ab530dd14fd589e15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675336759182
+status: 3
+tags: []
+user_id: leopoldotodisco

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/899c12ce61234e10aaf763c9887e7c96/artifacts
+end_time: 1675336393499
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 899c12ce61234e10aaf763c9887e7c96
+run_name: calm-snipe-304
+run_uuid: 899c12ce61234e10aaf763c9887e7c96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675336391751
+status: 3
+tags: []
+user_id: leopoldotodisco

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/a8abc1f5bc5245a3aceff034a8fa1955/artifacts
+end_time: 1675336202076
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8abc1f5bc5245a3aceff034a8fa1955
+run_name: funny-skunk-298
+run_uuid: a8abc1f5bc5245a3aceff034a8fa1955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675336200287
+status: 3
+tags: []
+user_id: leopoldotodisco

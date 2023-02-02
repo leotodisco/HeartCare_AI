@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/8f2a5dbcd027450fa5aa8b9022b68de9/artifacts
+end_time: 1675335020986
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f2a5dbcd027450fa5aa8b9022b68de9
+run_name: popular-croc-410
+run_uuid: 8f2a5dbcd027450fa5aa8b9022b68de9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675335019189
+status: 3
+tags: []
+user_id: leopoldotodisco

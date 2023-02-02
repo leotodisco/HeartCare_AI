@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/da2cce7bbd7144fdab067fc7840836fe/artifacts
+end_time: 1675337386149
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da2cce7bbd7144fdab067fc7840836fe
+run_name: learned-fish-544
+run_uuid: da2cce7bbd7144fdab067fc7840836fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675337384338
+status: 3
+tags: []
+user_id: leopoldotodisco

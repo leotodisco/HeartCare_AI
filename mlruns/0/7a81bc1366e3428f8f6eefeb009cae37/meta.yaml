@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/7a81bc1366e3428f8f6eefeb009cae37/artifacts
+end_time: 1675331003610
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a81bc1366e3428f8f6eefeb009cae37
+run_name: bright-lamb-221
+run_uuid: 7a81bc1366e3428f8f6eefeb009cae37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675331001917
+status: 3
+tags: []
+user_id: leopoldotodisco

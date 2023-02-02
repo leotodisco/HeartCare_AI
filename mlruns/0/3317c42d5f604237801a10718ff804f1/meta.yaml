@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/3317c42d5f604237801a10718ff804f1/artifacts
+end_time: 1675335642424
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3317c42d5f604237801a10718ff804f1
+run_name: resilient-colt-960
+run_uuid: 3317c42d5f604237801a10718ff804f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675335640569
+status: 3
+tags: []
+user_id: leopoldotodisco
