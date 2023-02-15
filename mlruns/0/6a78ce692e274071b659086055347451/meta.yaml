@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/6a78ce692e274071b659086055347451/artifacts
+end_time: 1675886602002
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a78ce692e274071b659086055347451
+run_name: resilient-calf-32
+run_uuid: 6a78ce692e274071b659086055347451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675886600782
+status: 3
+tags: []
+user_id: leopoldotodisco

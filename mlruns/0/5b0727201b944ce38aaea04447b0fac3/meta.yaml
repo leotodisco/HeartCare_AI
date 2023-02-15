@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/5b0727201b944ce38aaea04447b0fac3/artifacts
+end_time: 1676038549693
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b0727201b944ce38aaea04447b0fac3
+run_name: enchanting-snipe-788
+run_uuid: 5b0727201b944ce38aaea04447b0fac3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676038547830
+status: 3
+tags: []
+user_id: leopoldotodisco

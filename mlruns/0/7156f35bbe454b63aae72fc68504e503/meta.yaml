@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/7156f35bbe454b63aae72fc68504e503/artifacts
+end_time: 1675886727683
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7156f35bbe454b63aae72fc68504e503
+run_name: clumsy-mare-588
+run_uuid: 7156f35bbe454b63aae72fc68504e503
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675886726019
+status: 3
+tags: []
+user_id: leopoldotodisco

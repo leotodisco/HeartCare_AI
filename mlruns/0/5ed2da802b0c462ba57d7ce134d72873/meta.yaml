@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/5ed2da802b0c462ba57d7ce134d72873/artifacts
+end_time: 1675886795999
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ed2da802b0c462ba57d7ce134d72873
+run_name: loud-hare-185
+run_uuid: 5ed2da802b0c462ba57d7ce134d72873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675886794710
+status: 3
+tags: []
+user_id: leopoldotodisco

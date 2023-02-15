@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leopoldotodisco/Desktop/HeartCare_IA/HeartCare_AI/mlruns/0/0190211c57984507a8b8417377c769ce/artifacts
+end_time: 1675886839915
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0190211c57984507a8b8417377c769ce
+run_name: bald-stoat-994
+run_uuid: 0190211c57984507a8b8417377c769ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675886838667
+status: 3
+tags: []
+user_id: leopoldotodisco
